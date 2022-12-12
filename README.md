@@ -7,5 +7,16 @@ The boost customizes the Google Classroom Platform with dark mode, custom fonts,
 
 Protect yourself by picking the dark side!
 
+## Steps to use
+- Download/Signup for [Arc](https://thebrowser.company/)
+- Create a new boost
+- Copy paste the styles in styles file from [styles.css](src/styles.css)
+- Add `classroom.google.com` in Websites field.
+- Edit fonts if you want to.
+- Enjoy the dark mode.
+
+## Purpose
+This was built as part of [a micro-hackathon by The Browser Company](https://browserinc.notion.site/A-micro-hackathon-brought-to-you-by-The-Browser-Company-e4691c5b69c34ada9a0c9bed0113fd75#2c52bcd1b9744850b5fadbd2dfbe2a72)
+
 ## License
 [MIT](LICENSE)

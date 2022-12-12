@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Universal Values */
+body {
+  background: black;
+  color: white;
+}
+
+*{
+  font-family: 'Source Code Pro', monospace !important;
+}
+
+.joJglb, .ETRkCe, .nhassd, .TajIHf{
+  background: black!important;
+  color: white!important;
+}
+
+.Aopndd{
+  border: #d3d5db!important;
+}
+
+/* Home Page */
+
+.gHz6xd{
+  flex-direction: row!important;
+  width: 100%!important;
+  height: min-content!important;
+  justify-content: space-between;
+}
+
+.Tc9hUd{
+  position: static!important;
+  width: 75% !important;
+}
+
+.PNzAWd{
+  display: none;
+}
+
+div:has(> ol.JwPp0e){
+  width:100%;
+}
+
+.SZ0kZe, .Aopndd, .TQYOZc{
+  background: rgb(29, 29, 29)!important;
+}
+
+.lziZub, .lziZub:visited, .O98Lj,.tLDEHd, .asQXV, .wZTANe .J1raN, .WOPwXe, .A6dC2c, .YVvGBb, apFsO.onkcGd, .apFsO.onkcGd:visited, .oBSRLe, .pco8Kc{
+  color: rgb(211, 211, 211)!important;
+}
+
+.ee1HBc.VnOHwf-Tvm9db, .ee1HBc .VnOHwf-Tvm9db, .ee1HBc.CNpREd.VnOHwf-Tvm9db, .ee1HBc.CNpREd .VnOHwf-Tvm9db{
+  color: rgb(125, 179, 255) !important;
+  fill: rgb(125, 179, 255) !important;
+}
+
+.UvHKof.VnOHwf-Tvm9db, .UvHKof .VnOHwf-Tvm9db, .UvHKof.CNpREd.VnOHwf-Tvm9db, .UvHKof.CNpREd .VnOHwf-Tvm9db{
+  color: rgb(125, 179, 255) !important;
+  fill: rgb(125, 179, 255) !important;
+}
+
+.UvHKof .n42Gr:not(:disabled) {
+  color: rgb(125, 179, 255) !important;
+}
+
+.K6Ovqd, .EZrbnd, .T8rTjd, .UQuaGc, .onkcGd, .onkcGd:visited, .OGhwGf, .OGhwGf:visited{
+  color: rgb(138, 138, 138)!important;
+}
+
+.lXuxY .u73Apc, .svNSpd, .s2g3Xd, .oleV8d, .PeGHgb.Q8U8uc .Ono85c+.oh9CFb, .PeGHgb.Q8U8uc .ruTJle+.fETHd{
+  border-color: rgb(138, 138, 138)!important;
+}
+
+.e2urcc, .d4Fe0d{
+  background: rgba(92, 92, 92, 0.5)!important;
+  backdrop-filter: blur(4px)!important;
+  border-radius: 0.75rem;
+  border: none!important;
+}
+.joJglb{
+  border-bottom: 0.0625rem solid #919191!important;
+}
+
+.IMvYId:hover{
+  background-color: black;
+}
+
+.u73Apc{
+  background: rgba(92, 92, 92, 0.5)!important;
+  backdrop-filter: blur(4px)!important;
+  border-radius: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.OlXwxf .UW3s6d{
+  background: rgba(61, 61, 61, 0.5)!important;
+  backdrop-filter: blur(4px)!important;
+  border-radius: 0.75rem;
+  border: none!important;
+}
+
+.O9YpHb{
+  background: rgba(61, 61, 61, 0.5)!important;
+  backdrop-filter: blur(4px)!important;
+  border-radius: 0.75rem;
+  border-top-left-radius: 0rem !important;
+  border-top-right-radius: 0rem !important;
+  border: none!important;
+}
+
+.UW3s6d{
+  border-bottom-left-radius: 0rem !important;
+  border-bottom-right-radius: 0rem !important;
+}
+
+.u73Apc:hover, .JBMs6:hover{
+  background: rgba(121, 121, 121, 0.5)!important;
+}
+
+.tUJKGd:not(:first-child){
+  border-top:none!important;
+}
+
+.qs41qe{
+  background-color: rgb(59, 59, 59)!important;
+}
+
+.qs41qe > div.kXvNXe > div.nhassd{
+  background-color: rgb(59, 59, 59)!important;
+}
+
+.qs41qe > div.kXvNXe > div.TajIHf{
+  background-color: rgb(59, 59, 59)!important;
+}
+
+.UvHKof .uO32ac, .UvHKof .ypv4re, .ee1HBc .uO32ac, .ee1HBc .ypv4re,.MHxtic:not(:last-child){
+  border-bottom: none !important;
+}
+
+
+.GWZ7yf{
+  box-shadow: 0 1px 2px 0 rgba(255, 255, 255, 0.3), 0 2px 6px 2px rgb(60 64 67 / 15%);
+  background: rgba(29, 29, 29)!important;
+  backdrop-filter: blur(4px)!important;
+  border-radius: 0.75rem;
+  border: none!important;
+}
+
+.vnnr5e .CIy9F, .hgjBDc, .vnnr5e .I9OJHe{
+  background: rgba(92, 92, 92, 0.5)!important;
+}
+
+
+.UvHKof .DqwBN:not(.RDPZE), .UvHKof .YhQJj:not(.RDPZE), .UvHKof .K2V86d:not(.RDPZE), .UvHKof .l3F1ye:not(.RDPZE), .UvHKof .An19kf:not(.RDPZE), .UvHKof .BEAGS:not(.RDPZE), .UvHKof .AeAAkf:not(.RDPZE){
+  background: rgba(61, 61, 61, 0.5)!important;
+  color: rgba(92, 92, 92)!important;;
+}
+
+.UvHKof .QkA63b:not(.RDPZE), .UvHKof .Y5sE8d:not(.RDPZE){
+  background: rgba(148, 148, 148, 0.5)!important;
+}
+
+.CzuI5c .asQXV .QRiHXd{
+  background: rgba(61, 61, 61, 0.5)!important;
+}
+
+.NPEfkd .RveJvd .snByac,.z3vRcc{
+  color: rgba(207, 207, 207, 0.5)!important;
+}
+
+.kFwPee{
+  display: flex;
+  margin-top: 5rem;
+}

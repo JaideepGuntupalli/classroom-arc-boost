@@ -30,7 +30,7 @@ body {
 
 .Tc9hUd{
   position: static!important;
-  width: 75% !important;
+  width: 50% !important;
 }
 
 .PNzAWd{
@@ -40,6 +40,22 @@ body {
 div:has(> ol.JwPp0e){
   width:100%;
 }
+
+.kFwPee{
+  display: flex;
+  margin-top: 5rem;
+}
+
+/* To Do */
+div:has(> h2.oBSRLe){
+  position: absolute;
+  background: rgb(0,0,0, 0.5);
+  backdrop-filter: blur(4px)!important;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+}
+
+
 
 .SZ0kZe, .Aopndd, .TQYOZc{
   background: rgb(29, 29, 29)!important;
@@ -80,6 +96,8 @@ div:has(> ol.JwPp0e){
 .joJglb{
   border-bottom: 0.0625rem solid #919191!important;
 }
+
+/* Course Pages */
 
 .IMvYId:hover{
   background-color: black;
@@ -137,6 +155,7 @@ div:has(> ol.JwPp0e){
   border-bottom: none !important;
 }
 
+/* Assignments */
 
 .GWZ7yf{
   box-shadow: 0 1px 2px 0 rgba(255, 255, 255, 0.3), 0 2px 6px 2px rgb(60 64 67 / 15%);
@@ -166,9 +185,4 @@ div:has(> ol.JwPp0e){
 
 .NPEfkd .RveJvd .snByac,.z3vRcc{
   color: rgba(207, 207, 207, 0.5)!important;
-}
-
-.kFwPee{
-  display: flex;
-  margin-top: 5rem;
 }
